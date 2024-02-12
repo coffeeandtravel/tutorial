@@ -1,3 +1,3 @@
 # tutorial
 a tutorial for learning git
-## Author: Mayank Gaur
+## Author: Mayank Gaur(Beginer)
